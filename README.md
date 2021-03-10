@@ -28,14 +28,16 @@ CDN:
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 ```
 
-# Vue.js. https://vuejs.org/v2/guide/
+# Vue.js. 
+Ver mas en: https://vuejs.org/v2/guide/
 
 CDN:
 ```
 <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
 ```
 
-# Bootstrap. https://getbootstrap.com/
+# Bootstrap. 
+Ver mas en: https://getbootstrap.com/
 
 components/navbar
 
