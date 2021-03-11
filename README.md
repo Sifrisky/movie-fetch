@@ -3,7 +3,7 @@
 _Acá construí una aplicación de escritorio sencilla en la cual vamos a consumir información traída desde OMDBAPI._
 _Hice uso de Axios para realizar las peticiones y utilizamos **Vue.JS** como framework de JavaScript._
 
-
+See deployment 
 # Preview
 
 ![](docs/screenshot.jpeg)
@@ -39,9 +39,8 @@ CDN:
 # Bootstrap. 
 Ver mas en: https://getbootstrap.com/
 
-components/navbar
+<!--components/navbar (Como queremos buscar por titulos usamos la "s" es decir, /?s=)  -->
 
-Como queremos buscar por titulos usamos la "s" es decir, /?s=
 
 
 Made with a lot of 💕 by Sifrisky.
