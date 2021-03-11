@@ -3,7 +3,7 @@
 _Acá construí una aplicación de escritorio sencilla en la cual vamos a consumir información traída desde OMDBAPI._
 _Hice uso de Axios para realizar las peticiones y utilizamos **Vue.JS** como framework de JavaScript._
 
-See deployment 
+See deployment https://sifrisky.github.io/movie-fetch/
 # Preview
 
 ![](docs/screenshot.jpeg)
